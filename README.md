@@ -44,6 +44,7 @@ Contributions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Sudoku
 
 - [NitroPlayer Sudoku](https://nitroplayer.com/games/sudoku/) - Four difficulty levels, large numbers and a daily Sudoku that is the same for everyone.
+- [Puzzle Fern Killer Sudoku](https://puzzlefern.com/killer-sudoku/) - Twelve original 9×9 cage-sum Sudoku puzzles, with candidate notes and undo.
 - [Sudoku.com](https://sudoku.com/) - Popular Sudoku with daily challenges and many levels.
 - [Web Sudoku](https://www.websudoku.com/) - Classic, very fast Sudoku site with printable puzzles.
 
